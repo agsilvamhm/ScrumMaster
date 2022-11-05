@@ -24,3 +24,14 @@
 
 # O Scrum é um framework, Definição;
 ## O Scrum é um framework leve que ajuda pessoas, times e organizações a gerar valor por meio de soluções adaptativas para problemas complexos.
+## Framework Scrum = Conjunto de processos = Estrutura de trabalho.
+## Scrum Master = Especialista em Scrum e lider servidor.
+## Product Owner = Dono do produto.
+## Product backlog = É o que o produto contém como também os processos para produzir o mesmo.
+## Sprint backlog = Planejamento e entrega de parte do trabalho em um curto espaço de tempo.
+## Stakeholders = Partes interessadas.
+
+# Pilares do Scrum
+## Transparência
+## Inspeção
+## Adaptação
