@@ -22,3 +22,5 @@
 ##   XI - As melhores arquiteturas, requisitos e designers mergem de times auto organizados.
 ##  XII - Em intervalos regulares a equipe reflete como se tornar mias eficaz e então refina e ajusta seu comportamento de acordo.
 
+# O Scrum é um framework, Definição;
+## O Scrum é um framework leve que ajuda pessoas, times e organizações a gerar valor por meio de soluções adaptativas para problemas complexos.
